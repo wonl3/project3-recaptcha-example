@@ -8,7 +8,7 @@ This example shows how frontend and backend are separated by implementing a star
 3. For "Root Directory", click "Browse" and select this repository's folder. Click "Finish".
 4. If you haven't done so, get a [reCAPTCHA](https://www.google.com/recaptcha/intro/android.html) from Google. 
    Get reCAPTCHA -> Choose reCAPTCHA v2 -> Enter your AWS public IP and then localhost -> Register
-5. In `src/RecaptchaConstants.java`, replace `SECRET_KEY ="YOUR_SECRET_KEY";` with your own reCAPTCHA `secret key`.
+5. In `src/RecaptchaConstants.java`, replace `YOUR_SECRET_KEY;` with your own reCAPTCHA `secret key`.
 6. In `WebContent/index.html`, replace `data-sitekey="YOUR_SITE_KEY"` with your own reCAPTCHA `site key`.
 7. In `src/FormRecaptcha.java`, change your mysql username and password.
 8. You can run this project on Tomcat now.
