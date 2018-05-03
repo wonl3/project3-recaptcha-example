@@ -1,6 +1,6 @@
 ## CS 122B Project 3 reCAPTCHA example
 
-This example shows how frontend and backend are separated by implementing a star list page and a single star page with movie list.
+This example shows how to add reCAPTCHA to your frontend and backend.
 
 ### To run this example: 
 1. clone this repository using `git clone https://github.com/UCI-Chenli-teaching/project3-recaptcha-example.git`
